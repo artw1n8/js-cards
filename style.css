@@ -21,8 +21,10 @@ main {
 	padding: 20px;
 	width: 50vw;
 	height: 60vh;
+
 	background-color: #FFFFFF;
 	border-radius: 20px;
+
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
@@ -33,6 +35,7 @@ main {
 	position: relative;
 	width: 100%;
 	min-height: 50%;
+
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -69,8 +72,10 @@ main {
 	background: none;
 	border: 2px solid #323330;
 	border-radius: 10px;
+
 	font-size: 18px;
 	font-weight: 600;
+
 	cursor: pointer;
 	transition: all 0.15s ease;
 }
